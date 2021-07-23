@@ -1,0 +1,22 @@
+{"intents":[
+    {"tag": "greetings",
+    "patterns": ["hello", "hii", "hi", "hey", "greetings", "what's up?", "yo"],
+    "responses": ["Hello, how can I hep you?", "Hi, need any help?","Hey, ask me!", "Hi there! Go ahed I'll help you in your problems"]},
+
+    {"tag": "goodbye",
+    "patterns": ["Bye", "goodbye", "exit", "have a nice day", "alright bye", "see ya", "cya"],
+    "responses": ["Thank you, bye", "Goodbye","Nice to talk to you, bye", "I hope I had resolved your problem, bye", "Have a nice day ahead, bye"]},
+
+    {"tag": "name",
+    "patterns": ["who are you", "whats your name", "what can you do", "how can you help me", "help"],
+    "responses": ["Hey I am an artificial assistance here to help yu with your problem!", "I can try to resolve you problem!","Ican help you, go ahead ask me.", "I am a chatbot here to help you."]},
+
+    {"tag": "shop",
+    "patterns": ["course", "buy", "buy course", "machine learning course", "pyton course", "Artificial intelligence course", "AI course", "tutorial", "want to learn AI", "computer vision", "neural network", "music", "piano", "spanish", "chinese", "personality development", "personality", "guiter"," stitar", "violin", "tabla", "maths", "vedic", "flute", "yoga", "chess", "hindi", "sing", "singing", "harmonium"],
+    "responses": ["We provied many courses, here are the list of courses you can find intresting to rock!", "Need to learn? No worries! I can help you with the courses availabe.","Here you go these are the courses available at our store", "Master your skills here."]},
+
+    {"tag": "contact",
+    "patterns": ["connect me","contact", "talk to executive", "take a call", "didnt resolve", "confused", "not what I asked"],
+    "responses": ["Okay, let me connect you to one of the executive", "Think so, I dont know about your problem, let me connect you with someone","Do you want to take a call with one of our executive to resolve your problem?", "You might want to talk to an executive !"]}
+
+]}
