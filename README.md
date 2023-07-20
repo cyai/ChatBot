@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="chatbot.jpg" alt="Chatbot" width="500">
+  <img src="banner.jpeg" alt="Chatbot" width="500">
 </p>
 
 # Chatbot Project
